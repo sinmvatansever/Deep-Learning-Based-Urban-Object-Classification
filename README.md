@@ -30,39 +30,39 @@ Training and Optimisation
 
 **The project includes:**
 
-Adam optimisation
-Categorical cross-entropy loss
-Early stopping
-Learning-rate reduction
-Model checkpointing
-Batch normalisation
-Dropout regularisation
-TensorFlow data caching and prefetching
-Reproducible random seeds
-Optional learning-rate hyperparameter testing
+Adam optimisation,
+Categorical cross-entropy loss,
+Early stopping,
+Learning-rate reduction,
+Model checkpointing,
+Batch normalisation,
+Dropout regularisation,
+TensorFlow data caching and prefetching,
+Reproducible random seeds,
+Optional learning-rate hyperparameter testing,
 Model Evaluation
 
 **The Custom CNN and MobileNetV2 models are evaluated and compared using:**
 
-Validation accuracy
-Test accuracy
-Precision and recall for each object class
-Classification reports
-Confusion matrices
-Training and validation loss curves
-Training and validation accuracy curves
+Validation accuracy,
+Test accuracy,
+Precision and recall for each object class,
+Classification reports,
+Confusion matrices,
+Training and validation loss curves,
+Training and validation accuracy curves,
 Learning-rate sweep results
 
 The project demonstrates an end-to-end computer vision workflow covering object extraction, dataset preparation, CNN development, transfer learning, fine-tuning, model evaluation, and performance comparison.
 
-Technologies
-Python
-TensorFlow and Keras
-MobileNetV2
-YOLOv8
-OpenCV
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+Technologies,
+Python,
+TensorFlow and Keras,
+MobileNetV2,
+YOLOv8,
+OpenCV,
+NumPy,
+Scikit-learn,
+Matplotlib,
+Seaborn,
 Pascal VOC XML annotations
